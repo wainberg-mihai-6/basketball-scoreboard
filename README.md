@@ -4,7 +4,7 @@ A basketball scoreboard I built with an Arduino. It has a game clock, a shot clo
 
 ## Demo
 
-[Here is a demo video of the scoreboard](media/demo_video.mp4)
+[![Watch the demo](media/thubnail.jpeg)](https://youtu.be/79qjii52uvM)
 
 ## What it does
 
